@@ -1,0 +1,96 @@
+This is a remarkably creative and well-thought-out rig for a doom/sludge/stoner metal project. Splitting a 3-string, Drop-D modified Stratocaster across a guitar amp (for upper texture/clarity) and a bass amp (for earth-shattering low-end) is a classic dual-amp strategy used by heavyweights like *Melvins*, *Sleep*, and *High on Fire*.
+
+The Seymour Duncan Black Winter at the bridge is a high-output monster that will effortlessly push your fuzz/distortion pedals into crushing territory.
+
+---
+
+### Part 1: How to Distribute Your Pedals (Signal Chains)
+
+Since you have two distinct outputs (Neck/Middle to Mustang LT25, Bridge to Rumble 25), you want to split your pedals logically. The **Donner DT-1 Tuner** should go first in line before the split (or you can use it to tune silently before tracking), and the **Boss RC-1 Looper** should go at the very end of your recording/monitoring chain so it captures the final mix of both amps.
+
+#### **Output 1 Chain (Neck & Middle Pickups → Fender Mustang LT25)**
+
+*Focus: Clarity, upper-mid punch, definition, and atmospheric crunch.*
+
+1. **Guitar (Neck/Middle Outputs)**
+2. **Donner DT-1 Tuner** (Pitch reference / mute)
+3. **Donner Harmonic Square** (Octave pedal — great for adding a sub-octave or an upper octave for massive wall-of-sound doom textures)
+4. **Sonicake Rude Mouse** (ProCo RAT clone — use this as a mid-forward distortion *boost* to tighten up the mud and give your riffs aggressive bite)
+5. **Sonicake Noise Wiper (1)** (To squash hum from the single-coil middle pickup and tighten up the distortion trails)
+6. **Fender Mustang LT25 Amp**
+
+#### **Output 2 Chain (Bridge Pickup → Fender Rumble 25 Bass Amp)**
+
+*Focus: Subterranean low-end, wall-shaking fuzz, and surgical EQ control.*
+
+1. **Guitar (Bridge Output with Black Winter)**
+2. **Big Muff Green Russian** (The holy grail of doom fuzz. It retains massive low-end and gives you that trademark sluggish, woolly stoner-rock growl)
+3. **Sonicake Fazy Cream** (A secondary fuzz/distortion stage. You can stack this *after* the Big Muff for extra compressed saturation, or keep it off as an alternative flavor)
+4. **ENO EX EQ7 7-Band Equalizer** (Crucial for a bass amp: boost the lows/low-mids for chest-hitting weight, or scoop the muddy frequencies)
+5. **Sonicake Noise Wiper (2)** (High-gain bridge humbuckers + massive fuzz will create a lot of feedback; use this pedal to gate silence between your heavy power-chord chugs)
+6. **Fender Rumble 25 Bass Amp**
+
+*(Note: Place the **Boss RC-1 Looper** either right before your audio interface/recording device capturing both amp mics, or use it at the very end if you're summing them).*
+
+---
+
+### Part 2: Recommended Pedal Settings
+
+*Knob positions are viewed clockwise from 7 o’clock (minimum) to 5 o’clock (maximum).*
+
+* **Donner Harmonic Square (Octave):**
+* *Mode:* Set to -1 Octave (or mix equal parts dry and -1 octave) to give your 3-string power chords the weight of a baritone or bass.
+
+
+* **Sonicake Rude Mouse (RAT Distortion):**
+* **Distortion:** 11:00 (A moderate crunch; you want it to push, not buzz out)
+* **Filter (Tone):** 1:00 (Keep it slightly darker to avoid harsh treble)
+* **Volume:** 2:00 (Set high enough to slam the front end of the Mustang LT25)
+
+
+* **Big Muff Green Russian:**
+* **Sustain:** 4:00 to Max (Full-throttle doom saturation)
+* **Tone:** 11:00 (Slightly left of center keeps the low-end deep, heavy, and dark without getting overly piercing)
+* **Volume:** 1:00–2:00 (Well above unity gain so it aggressively hits the Rumble 25)
+
+
+* **Sonicake Fazy Cream:**
+* *If stacking after the Big Muff:* **Gain:** 9:00, **Tone:** 12:00, **Volume:** 12:00 (Just adding a touch of extra texture/texture clipping).
+
+
+* **ENO EX EQ7 7-Band Equalizer:**
+* *100Hz / 250Hz:* +3 to +4 dB (Deep low-end thud for the bass amp)
+* *500Hz / 1kHz:* -2 dB (Slight scoop to clear out boxy mud)
+* *2kHz / 4kHz / 6.4kHz:* +2 dB (To help pick-attack and string clank cut through the fuzz)
+
+
+* **Sonicake Noise Wipers (Both):**
+* *Threshold:* Set around 12:00 to 2:00 (Adjust live until background hiss/feedback cuts out instantly when you mute the strings with your palm, but doesn't choke your sustaining power-chord ring-outs).
+
+
+
+---
+
+### Part 3: Amp Settings
+
+Because you are working with smaller practice-sized amplifiers (LT25 and Rumble 25), you need to dial them in to maximize low-end thickness and prevent speaker farting or digital fizziness.
+
+#### **1. Fender Mustang LT25 (Neck & Middle + Rude Mouse Chain)**
+
+* **Amp Model:** Select a British high-gain model (like a "British 800" or an Orange-style simulation if available) or a tight, aggressive American crunch model. Keep the internal digital gain moderate (around 4 or 5) since your pedals are doing the heavy lifting.
+* **Gain:** 4/10
+* **Bass:** 6/10
+* **Mid:** 7/10 (Crucial for doom/sludge—mids prevent your guitar from getting lost behind the bass amp)
+* **Treble:** 4/10 (Rolled back slightly to avoid ice-pick highs from the single-coil/neck setup)
+* **Master Volume:** To taste (Keep it loud enough to push air, but balanced against the bass amp).
+
+#### **2. Fender Rumble 25 (Bridge + Green Russian + EQ Chain)**
+
+* *Note: Bass amps have smaller cabinets, so pushing too much extreme low-end into a Rumble 25 with a fuzz pedal can cause speaker distortion. Use your EQ pedal to manage the lowest frequencies.*
+* **Gain:** 3/10 (Keep the amp's preamp clean; let the Green Russian handle the dirt)
+* **Bright Switch:** OFF (Doom requires a dark, warm, sludgy tone, not a clicky-bright tone)
+* **Bass:** 5/10 (Let the EQ pedal handle the sub-boost; keep the amp knob neutral so the 8-inch speaker doesn't overload)
+* **Low-Mid:** 7/10 (This is where the massive sludge "chest punch" lives)
+* **High-Mid:** 5/10
+* **Treble:** 3/10 (Tame the harsh fuzz fizz)
+* **Volume:** Adjusted to match or slightly overpower the LT25, giving you a massive wall of sound where the guitar amp provides the snarl and the bass amp provides the earthquake.
