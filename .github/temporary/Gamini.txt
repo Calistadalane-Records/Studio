@@ -1,3 +1,40 @@
+QUESTION
+--------
+
+I have modified a Fender Stratocaster in the following ways:
+
+* It only has the three lowest pitch strings, the other three strings are not present
+* It is tuned to Drop-D
+* I only play power chords by holding the three strings down on a single fret
+* The neck pickup is a generic humbucker
+* The middle pickup is a single-coil
+* The bridge pickup is a Seymour Duncan Black Winter humbucker
+* There are two outputs:
+  1. The neck and middle pickups go to a Fender Mustang LT25 guitar amp
+  2. The bridge pickup goes to a Fender Rumble 25 bass amp
+
+I have the following guitar pedals:
+
+* 1x Donner DT-1 tuner 
+* 1x Big Muff Green Russian
+* 1x Sonicake Rude Mouse
+* 2x Sonicake Noise Wiper
+* 1x ENO EX EQ7 7-Band Equalizer
+* 1x Boss RC-1 Loop Station
+* 1x Donner Harmonic Square
+* 1x Sonicake Fazy Cream
+
+I want to record doom/sludge/stoner metal.
+
+I would like to know:
+
+* What pedals should I use with each output
+* What should the pedal settings be?
+* What should the guitar and bass amp settings be?
+
+ANSWER
+------
+
 This is a remarkably creative and well-thought-out rig for a doom/sludge/stoner metal project. Splitting a 3-string, Drop-D modified Stratocaster across a guitar amp (for upper texture/clarity) and a bass amp (for earth-shattering low-end) is a classic dual-amp strategy used by heavyweights like *Melvins*, *Sleep*, and *High on Fire*.
 
 The Seymour Duncan Black Winter at the bridge is a high-output monster that will effortlessly push your fuzz/distortion pedals into crushing territory.
